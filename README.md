@@ -24,7 +24,7 @@ This is my first local chaneg to the repo!
 
 [Google Homepage](https://www.google.com)
 
-![An image of a cat](https://placecat.com/200/300)
+![An image of a cat](https://placecats.com/200/300)
 
 ![An image of the Mona Lisa](Image/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
 
